@@ -1,0 +1,15 @@
+@font-face{
+	src: url();
+}
+body{
+	background-color: red;
+	font-style: italic; 
+}
+
+#ptag{
+	font-family: cursive;
+	padding-left: 20px 30px
+	background-color: yellow;
+	border-style: double;
+	border-width: 20
+}
